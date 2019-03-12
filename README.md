@@ -1,3 +1,3 @@
 # docm
 This project is writing for myself.
-I'm going for working on cloud computing, they are my practic.Maybe you don't need.
+I'm going to working on cloud computing, they are my practises.You certainly don't need it.
